@@ -9,7 +9,7 @@ Considero a esta tecnología como un campo en constante evolución, con un **alt
 
 ## 🔗 Wallet Multisig  
 Aquí comparto la dirección de mi wallet multifirma:  
-`0xc5831f1E0271bD9D87C7B577BebEe2428838BD25`
+`0x3CA10eb2D477Aa6aFeba8fE72ED55388B1941Bcb`
 
 
 
